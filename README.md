@@ -1,4 +1,4 @@
-# Realworld API
+# Article Hub API
 
 > ### (Express + MongoDB) codebase containing real world examples (CRUD, auth, advanced patterns, etc)
 
